@@ -1,0 +1,15 @@
+# 排除 logs 文件夹及其所有内容
+/logs/
+
+# 排除 summit 文件夹及其所有内容
+/summit/
+
+# 排除 models 文件夹及其所有内容
+/models/
+
+# 
+/risk/
+
+.env
+
+
